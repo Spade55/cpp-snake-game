@@ -1,3 +1,6 @@
+## My Role
+Responsible for core gameplay logic, including snake movement, collision detection, score tracking, and game state management.
+Contributed to bug fixing, modular design, and code maintainability using Git-based collaboration.
 
 ## Features
 
@@ -150,3 +153,4 @@ The score tracker maintains:
 ## License
 
 This project is part of CSE3150 coursework.
+
